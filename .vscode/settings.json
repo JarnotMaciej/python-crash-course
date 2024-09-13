@@ -1,3 +1,6 @@
 {
-    "debug.showBreakpointsInOverviewRuler": false
+    "debug.showBreakpointsInOverviewRuler": false,
+    "editor.rulers": [
+        {"column": 80}
+    ]
 }
